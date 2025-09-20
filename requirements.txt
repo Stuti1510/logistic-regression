@@ -1,9 +1,10 @@
 joblib
-scikitlearn
+scikit-learn
 Flask
 pandas  
 numpy
 gunicorn
 matplotlib.pyplot
 seaborn
+
 
